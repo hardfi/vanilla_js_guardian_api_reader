@@ -4,4 +4,4 @@ export const DAYS_BACK = 30;
 export const PAGE_SIZE = 10;
 export const INPUT_DEBOUNCE_TIME = 500;
 export const STORAGE_READ_LATER_KEY = 'READ_LATER';
-export const TOAST_SHOW_TIME = 30000;
+export const TOAST_SHOW_TIME = 3000;
